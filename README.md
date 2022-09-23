@@ -20,4 +20,4 @@ In order to run the project, follow the installation steps below:
 6. Run the following command to launch Cypress: npx cypress open
 7. Once the GUI is loaded --> select "E2E Testing" and click on the module
 8. Choose Chrome as your browser --> click "Start E2E Testing in Chrome"
-9. You will see the project test cases. In order to run them, click on any
+9. You will see the project test cases. In order to run them, click on any of the test cases
