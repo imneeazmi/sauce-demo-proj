@@ -5,7 +5,7 @@ Cypress saucedemo.com Automation Test Cases
 This is a sample test automation framework for www.saucedemo.com.  SauceDemo is a sample website built by SauceLabs that allows users to practice browser automation.
 
 # What do these tests cover?
-These tests cover many test cases such as signing in/out, adding items to the cart, and checking out.
+These tests cover many test cases such as signing in/out, viewing the products list, and clicking on the side navigation items.
 
 # What isn't tested?
 Layout issues, sessions, cookies, APIs, etc.
